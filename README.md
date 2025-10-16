@@ -30,16 +30,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamiezoned&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-
-## 🔧 Featured Projects
-📘 [Infrastructure Runbook](https://github.com/Jamiezoned/infrastructure-runbook)  
-Step-by-step imaging and domain join guide.
-
-⚙️ [PowerShell Automation](https://github.com/Jamiezoned/powershell-automation)  
-Inventory export script with CSV + logging.
-
-🌐 [Network Lab Diagram](https://github.com/Jamiezoned/network-lab-diagram)  
-Two-VLAN lab topology with AD/DC and DHCP.
+## Featured Projects
+- 📘 **Runbook:** Imaging + domain join + GPO → <a href="https://github.com/Jamiezoned/infrastructure-runbook">infrastructure-runbook</a>  
+- ⚙️ **Automation:** Inventory to CSV + logging → <a href="https://github.com/Jamiezoned/powershell-automation">powershell-automation</a>  
+- 🌐 **Network:** Two-VLAN lab with AD/DC → <a href="https://github.com/Jamiezoned/network-lab-diagram">network-lab-diagram</a>  
+- 🧠 **Open-source:** Quarto/Jupyter tooling → <a href="https://github.com/Jamiezoned/nbquarto-tools">nbquarto-tools</a>
 
 ---
 

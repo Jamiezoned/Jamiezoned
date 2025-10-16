@@ -30,11 +30,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamiezoned&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-## Featured Projects
-- 📘 **Runbook:** Imaging + domain join + GPO → <a href="https://github.com/Jamiezoned/infrastructure-runbook">infrastructure-runbook</a>  
-- ⚙️ **Automation:** Inventory to CSV + logging → <a href="https://github.com/Jamiezoned/powershell-automation">powershell-automation</a>  
-- 🌐 **Network:** Two-VLAN lab with AD/DC → <a href="https://github.com/Jamiezoned/network-lab-diagram">network-lab-diagram</a>  
-- 🧠 **Open-source:** Quarto/Jupyter tooling → <a href="https://github.com/Jamiezoned/nbquarto-tools">nbquarto-tools</a>
+## Some Projects I Work On
+
+[![nbquarto-tools](https://github-readme-stats.vercel.app/api/pin/?username=Jamiezoned&repo=nbquarto-tools&theme=tokyonight&hide_border=true)](https://github.com/Jamiezoned/nbquarto-tools)
+[![infrastructure-runbook](https://github-readme-stats.vercel.app/api/pin/?username=Jamiezoned&repo=infrastructure-runbook&theme=tokyonight&hide_border=true)](https://github.com/Jamiezoned/infrastructure-runbook)
+[![powershell-automation](https://github-readme-stats.vercel.app/api/pin/?username=Jamiezoned&repo=powershell-automation&theme=tokyonight&hide_border=true)](https://github.com/Jamiezoned/powershell-automation)
+[![network-lab-diagram](https://github-readme-stats.vercel.app/api/pin/?username=Jamiezoned&repo=network-lab-diagram&theme=tokyonight&hide_border=true)](https://github.com/Jamiezoned/network-lab-diagram)
 
 ---
 

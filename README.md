@@ -36,7 +36,8 @@
 [![infrastructure-runbook](https://github-readme-stats.vercel.app/api/pin/?username=Jamiezoned&repo=infrastructure-runbook&theme=tokyonight&hide_border=true)](https://github.com/Jamiezoned/infrastructure-runbook)
 [![powershell-automation](https://github-readme-stats.vercel.app/api/pin/?username=Jamiezoned&repo=powershell-automation&theme=tokyonight&hide_border=true)](https://github.com/Jamiezoned/powershell-automation)
 [![network-lab-diagram](https://github-readme-stats.vercel.app/api/pin/?username=Jamiezoned&repo=network-lab-diagram&theme=tokyonight&hide_border=true)](https://github.com/Jamiezoned/network-lab-diagram)
-
+[![vpn-reconnect-helper](https://github-readme-stats.vercel.app/api/pin/?username=Jamiezoned&repo=vpn-reconnect-helper&theme=tokyonight&hide_border=true)](https://github.com/Jamiezoned/vpn-reconnect-helper)
+[![steam-hour-booster](https://github-readme-stats.vercel.app/api/pin/?username=Jamiezoned&repo=steam-hour-booster&theme=tokyonight&hide_border=true)](https://github.com/Jamiezoned/steam-hour-booster)
 ---
 
 ## 🌍 About Me

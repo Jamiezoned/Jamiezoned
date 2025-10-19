@@ -24,12 +24,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-![Jamie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamiezoned&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamiezoned&layout=compact&theme=tokyonight&hide_border=true)
-
----
 ## Some Projects I Work On
 
 [![nbquarto-tools](https://github-readme-stats.vercel.app/api/pin/?username=Jamiezoned&repo=nbquarto-tools&theme=tokyonight&hide_border=true)](https://github.com/Jamiezoned/nbquarto-tools)

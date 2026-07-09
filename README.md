@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Jamie Johansson</h1>
-<h3 align="center">IT Infrastructure & Field Tech | PowerShell • AD • VLAN • Imaging</h3>
+<h3 align="center">IT Infrastructure & Field Tech | PowerShell • AD • Enterprise Support • Imaging</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/jamie-j-b37566343"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

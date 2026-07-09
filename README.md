@@ -36,7 +36,5 @@
 
 ## 🌍 About Me
 Swedish IT infrastructure student studying **Computer Science at Santa Barbara City College (USA)**.  
-250+ night shifts in production systems — focused on reliability, automation, and zero downtime.  
-Open to **ICT Assistant / Field Technician / Infrastructure Support** roles globally.  
 
 📫 Reach me: [LinkedIn](https://linkedin.com/in/jamie-j-b37566343) | [Email](mailto:djaajamie@gmail.com)

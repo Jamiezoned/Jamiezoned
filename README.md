@@ -37,4 +37,4 @@
 ## 🌍 About Me
 Swedish IT infrastructure student studying **Computer Science at Santa Barbara City College (USA)**.  
 
-📫 Reach me: [LinkedIn](https://linkedin.com/in/jamie-j-b37566343) | [Email](mailto:djaajamie@gmail.com)
+Reach me: [LinkedIn](https://linkedin.com/in/jamie-j-b37566343) | [Email](mailto:djaajamie@gmail.com)

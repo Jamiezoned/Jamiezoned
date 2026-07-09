@@ -35,6 +35,6 @@
 ---
 
 ## 🌍 About Me
-IT Technician at Sopra Steria in Oslo with a Computer Science background from Santa Barbara City College. Passionate about IT infrastructure, field engineering, automation, and enterprise technologies.
+IT Technician at **Sopra Steria** in Oslo with a Computer Science background from **Santa Barbara City College**. Passionate about **IT infrastructure, field engineering, automation, and enterprise technologies.**
 
 Reach me: [LinkedIn](https://linkedin.com/in/jamie-j-b37566343) | [Email](mailto:djaajamie@gmail.com)
